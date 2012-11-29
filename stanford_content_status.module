@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Stanford Content Status feature.
+ */
+
+include_once 'stanford_content_status.features.inc';
