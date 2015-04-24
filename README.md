@@ -14,7 +14,8 @@ Install this module like any other module. [See Drupal Documentation](https://dr
 Configuration
 ---
 
-Nothing special needed.
+This module creates a list text field "field_s_content_status" which, by default is available on Drupal's default "Basic Page" content type. To use this field on other content types, add it as an existing field on the "Manage fields" form for the content type. 
+
 
 Troubleshooting
 ---
