@@ -4,7 +4,7 @@
 Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)
 [Changelog.txt](CHANGELOG.txt)
 
-**Needs Description**
+This feature module provides a lightweight approach for tracking workflow status for the content development of a website. After adding it to an entity bundle such as a content type, you can note the status of each node, then monitor your progress on the content status view.
 
 Installation
 ---
@@ -14,7 +14,7 @@ Install this module like any other module. [See Drupal Documentation](https://dr
 Configuration
 ---
 
-This module creates a list text field "field_s_content_status" which, by default is available on Drupal's default "Basic Page" content type. To use this field on other content types, add it as an existing field on the "Manage fields" form for the content type. 
+This feature module creates a list text field "field_s_content_status" which, by default is available on Drupal's default "Basic Page" content type. To use this field on other content types, add it as an existing field on the "Manage fields" form for the content type. 
 
 
 Troubleshooting
